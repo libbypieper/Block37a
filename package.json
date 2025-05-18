@@ -1,0 +1,27 @@
+{
+  "name": "block37a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libbypieper/Block37a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libbypieper/Block37a/issues"
+  },
+  "homepage": "https://github.com/libbypieper/Block37a#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jest": "^29.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.16.0",
+    "supertest": "^7.1.1"
+  }
+}
